@@ -1,0 +1,5 @@
+### test
+GET https://httpbin.org/get?id=1&hhh=1 HTTP/1.1
+
+### generate wallpaper
+GET http://localhost:3000/api/get-wallpapers
